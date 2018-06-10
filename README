@@ -1,0 +1,19 @@
+███████╗███████╗ █████╗ ██████╗  ██████╗██╗  ██╗
+██╔════╝██╔════╝██╔══██╗██╔══██╗██╔════╝██║  ██║
+███████╗█████╗  ███████║██████╔╝██║     ███████║
+╚════██║██╔══╝  ██╔══██║██╔══██╗██║     ██╔══██║
+███████║███████╗██║  ██║██║  ██║╚██████╗██║  ██║
+╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
+
+DESCRIPTION
+	A basic search engine written in python
+
+USAGE
+	- python main.py <data folder>
+
+IMPROVEMENTS
+	- Adding an AST for the and, or search
+	- Adding the removing in the index
+
+CONTRIBUTOR
+	Hussem Ben Belgacem
